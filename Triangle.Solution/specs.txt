@@ -1,0 +1,12 @@
+- Triangle class console app
+- Console.ReadLine() to gather input from users
+- Takes 3 inputs from user to determine 3 sides of Triangle
+- All 3 numbers are equal => Equilateral
+- Only 2 numbers are equal => Isosceles
+- No numbers are equal => Scalene
+- If one side > the sum of two other sides, => not a Triangle
+-- e.g., 7, 4, 2: 7>6, not a triangle.
+
+
+
+Co-authored-by: Nataliya Zhuravleva <natalindria@gmail.com>

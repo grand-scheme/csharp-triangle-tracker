@@ -1,0 +1,11 @@
+C:\Users\student loser\Desktop\c-sharp-weekend-1\csharp-triangle\Triangle.Solution\Triangle\bin\Debug\netcoreapp2.2\Triangle.deps.json
+C:\Users\student loser\Desktop\c-sharp-weekend-1\csharp-triangle\Triangle.Solution\Triangle\bin\Debug\netcoreapp2.2\Triangle.dll
+C:\Users\student loser\Desktop\c-sharp-weekend-1\csharp-triangle\Triangle.Solution\Triangle\bin\Debug\netcoreapp2.2\Triangle.pdb
+C:\Users\student loser\Desktop\c-sharp-weekend-1\csharp-triangle\Triangle.Solution\Triangle\obj\Debug\netcoreapp2.2\Triangle.csprojAssemblyReference.cache
+C:\Users\student loser\Desktop\c-sharp-weekend-1\csharp-triangle\Triangle.Solution\Triangle\obj\Debug\netcoreapp2.2\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\student loser\Desktop\c-sharp-weekend-1\csharp-triangle\Triangle.Solution\Triangle\obj\Debug\netcoreapp2.2\Triangle.AssemblyInfoInputs.cache
+C:\Users\student loser\Desktop\c-sharp-weekend-1\csharp-triangle\Triangle.Solution\Triangle\obj\Debug\netcoreapp2.2\Triangle.AssemblyInfo.cs
+C:\Users\student loser\Desktop\c-sharp-weekend-1\csharp-triangle\Triangle.Solution\Triangle\obj\Debug\netcoreapp2.2\Triangle.dll
+C:\Users\student loser\Desktop\c-sharp-weekend-1\csharp-triangle\Triangle.Solution\Triangle\obj\Debug\netcoreapp2.2\Triangle.pdb
+C:\Users\student loser\Desktop\c-sharp-weekend-1\csharp-triangle\Triangle.Solution\Triangle\bin\Debug\netcoreapp2.2\Triangle.runtimeconfig.json
+C:\Users\student loser\Desktop\c-sharp-weekend-1\csharp-triangle\Triangle.Solution\Triangle\bin\Debug\netcoreapp2.2\Triangle.runtimeconfig.dev.json
