@@ -12,5 +12,11 @@ namespace Triangle
       SideTwo = sideTwo;
       SideThree = sideThree;
     }
+
+    public bool IsTriangle(int a, int b, int c)
+    {
+      // 
+      return a < b + c;
+    }
   }
 }
