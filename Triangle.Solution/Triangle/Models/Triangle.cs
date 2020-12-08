@@ -15,8 +15,12 @@ namespace Triangle
 
     public bool IsTriangle(int a, int b, int c)
     {
-      // 
-      return a < b + c;
+      return (a < b + c) && (b < c + a) && (c < a + b);
+    }
+
+    public bool IsEquilateral(int a, int b, int c)
+    {
+      return (a == b) && (b == c) && (c == a);
     }
   }
 }

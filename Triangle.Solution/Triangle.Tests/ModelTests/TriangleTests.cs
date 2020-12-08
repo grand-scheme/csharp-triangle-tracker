@@ -7,10 +7,22 @@ namespace Triangle.Tests
   public class TriangleTests
   {
     [TestMethod]
-    public void IsTriangle_OneSideLessThanTwoOthers_True()
+    public void IsTriangle_FirstSideLessThanTwoOthers_True()
     {
       Triangle testTriangle = new Triangle(7,4,2);
       Assert.AreEqual(false, testTriangle.IsTriangle(7,4,2));
+    }
+    [TestMethod]
+    public void IsTriangle_AllSidesLessThanTwoOthers_True()
+    {
+      Triangle testTriangle = new Triangle(3,9,1);
+      Assert.AreEqual(false, testTriangle.IsTriangle(3,9,1));
+    }
+    [TestMethod]
+    public void IsEquilateral_AllSidesEqual_True()
+    {
+      Triangle testTriangle = new Triangle(2,2,2);
+      Assert.AreEqual(true, testTriangle.IsEquilateral(2,2,2));
     }
   }
 }
