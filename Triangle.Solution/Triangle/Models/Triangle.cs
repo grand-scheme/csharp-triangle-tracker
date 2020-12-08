@@ -22,5 +22,13 @@ namespace Triangle
     {
       return (a == b) && (b == c) && (c == a);
     }
+
+    public bool IsIsosceles(int a, int b, int c)
+    {
+      return ((a == b) && (a != c)) || ((a != b) && (a == c)) || ((b == c) && (b != a));
+    }
   }
 }
+// a = b, /= c
+// a = c, /=b
+// b = c, /=a
