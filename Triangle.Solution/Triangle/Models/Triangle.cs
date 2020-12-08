@@ -27,6 +27,11 @@ namespace Triangle
     {
       return ((a == b) && (a != c)) || ((a != b) && (a == c)) || ((b == c) && (b != a));
     }
+
+    public bool IsScalene(int a, int b, int c)
+    {
+      return ((a != b) && (b != c) && (c != a));
+    }
   }
 }
 // a = b, /= c
